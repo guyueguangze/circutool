@@ -18,7 +18,7 @@
     "web-vitals": "^2.1.4",
     "webpackbar": "^5.0.2"
   },
-  "homepage": "https://guyueguangze.github.io/circuittool",
+  "homepage": "https://guyueguangze.github.io/circutool",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
